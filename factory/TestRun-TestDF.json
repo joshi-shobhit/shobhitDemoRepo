@@ -1,0 +1,9 @@
+{
+	"name": "TestRun-TestDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9670ec06-26a8-4b76-bed4-e300cba0b607",
+		"tenantId": "ee3950b2-c7cb-4247-ab3c-7e43cdf400d2"
+	}
+}
